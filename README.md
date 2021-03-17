@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Development made easy: we love to speed your ideas to life
+
+We can help.
+
+- We’re web solutions experts. We master Content Management Systems (CMS).
+- We’re open-source specialists. We create intuitive solutions valued by your customers.
+- We do project management, integration services, and support.
+- We value you as a partner. We enjoy your success as our own.
+
+- 📫 How to reach us: pictonio@pictonio.com
+
 <!--
 **pictonio/pictonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
